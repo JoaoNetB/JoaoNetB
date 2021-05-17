@@ -11,6 +11,7 @@ Seja bem-vindo ao meu perfil!
 <a href="https://twitter.com/BRN3TO"> 
 <img src="./img/Twitter_logo_blue.png" width="70px" />
 </a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-bevolo-202326198/"><img src="./img/linkedin.png" width="65px"></a>
 <br><br><br>
 
 
